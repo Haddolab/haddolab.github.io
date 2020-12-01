@@ -234,13 +234,10 @@ social_icons:
   Blog: fas fa-bold
 
 
-# Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-#avatar:
+ Sidebar Avatar
+ in directory: /assets/images/avatar.gif
+avatar:
 
-  Sidebar Avatar
-  in directory: /assets/images/a.jpg
-avatar: seohachoi
 
 # Table Of Contents in the Sidebar
 toc:
