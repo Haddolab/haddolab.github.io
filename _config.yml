@@ -219,7 +219,7 @@ social:
   GitHub: https://github.com/Haddolab
   Instagram: https://www.instagram.com/seohachoi
   Blog: https://www.blog.naver.com/soniac0721
-  
+
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -229,7 +229,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: <i class="fab fa-github"></i>
+  GitHub: fab fa-github
   Instagram: <i class="fab fa-instagram"></i>
   Blog: <i class="fas fa-bold"></i>
 
