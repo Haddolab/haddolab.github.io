@@ -230,8 +230,8 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: fab fa-github
-  Instagram: <i class="fab fa-instagram"></i>
-  Blog: <i class="fas fa-bold"></i>
+  Instagram: fab fa-instagram
+  Blog: fas fa-bold
 
 
 # Sidebar Avatar
