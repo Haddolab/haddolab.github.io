@@ -238,7 +238,7 @@ social_icons:
 # in directory: /assets/images/avatar.gif
 #avatar:
 
-  in directory: /assets/images/a.jpg
+  in directory: C:\Users\Administrator\Documents\GitHub\haddolab.github.io\assets\images/a.jpg
 avatar: seohachoi
 
 # Table Of Contents in the Sidebar
