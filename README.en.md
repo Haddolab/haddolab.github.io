@@ -152,7 +152,7 @@ favicon: /assets/favicon.ico
 
 # Avatar (put the image into next/source/images/)
 # can be any image format supported by web browsers (JPEG,PNG,GIF,SVG,..)
-avatar: /assets/default_avatar.png
+avatar: Github/haddolab.github.io/a.jpg
 
 # Code highlight theme
 # available: normal | night | night eighties | night blue | night bright
