@@ -226,10 +226,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
-
+  GitHub: https://www.github.com/Haddolab
+  Instagram: https://www.instagram.com/seohachoi
+  Naverblog: https://www.blog.naver.com/soniac0721
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -386,6 +385,7 @@ disqus:
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
+  disqus_shortname: haddo
 
 # <wildfire>
 wildfire:
