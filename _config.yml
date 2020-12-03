@@ -136,7 +136,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: cat
+  categories: grip-horizontal
   schedule: calendar
   tags: tags
   archives: archive
