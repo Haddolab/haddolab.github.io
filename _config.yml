@@ -136,7 +136,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: fas fa-cat
+  categories: cat
   schedule: calendar
   tags: tags
   archives: archive
