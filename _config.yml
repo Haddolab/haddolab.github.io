@@ -9,7 +9,7 @@ subtitle:
 description: if i knew creating a github blog would take more than 5 hours, i would not even try it.
 author: Choi, Seo Ha
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: ko
 date_format: '%Y-%m-%d'
 
 # URL
@@ -136,7 +136,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: grip-horizontal
+  categories: fas fa-align-justify
   schedule: calendar
   tags: tags
   archives: archive
