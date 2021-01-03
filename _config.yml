@@ -349,7 +349,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: false
-  image: 
+  image:
 
 
 # Code Highlight theme
@@ -465,7 +465,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: 'G-466882VLQK'
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
